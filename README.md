@@ -2,10 +2,7 @@
 
 A modern personal portfolio website built with Next.js, TypeScript, and Tailwind CSS.
 
-[![Stars](https://img.shields.io/github/stars/Komalmalkani/portfolio-nextjs?label=Stars&style=flat)][repo]
-[![Forks](https://img.shields.io/github/forks/Komalmalkani/portfolio-nextjs?label=Forks&style=flat)][repo]
-[![Watchers](https://img.shields.io/github/watchers/Komalmalkani/portfolio-nextjs?label=Watchers&style=flat)][repo]
-[![GitHub last commit](https://img.shields.io/github/last-commit/Komalmalkani/portfolio-nextjs?label=Last+Commit&style=flat)][repo]
+
 
 ## 🚀 Tech Stack
 
