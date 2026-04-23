@@ -37,8 +37,7 @@ A modern personal portfolio website built with Next.js, TypeScript, and Tailwind
 
 ## Screenshots
 
-![Screenshot 1](screenshot-desktop.png)
-
+![Screenshot 1](public/skills/desktop-homepage.png)
 ## Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
