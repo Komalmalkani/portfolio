@@ -37,7 +37,7 @@ A modern personal portfolio website built with Next.js, TypeScript, and Tailwind
 
 ## Screenshots
 
-![Screenshot 1](/screenshot-desktop.png)
+![Screenshot 1](screenshot-desktop.png)
 
 ## Getting Started
 
