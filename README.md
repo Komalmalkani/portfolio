@@ -34,7 +34,7 @@ A modern personal portfolio website built with Next.js, TypeScript, and Tailwind
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot1.png)
+![Screenshot 1](https://github.com/Komalmalkani/portfolio/blob/main/desktop-homepage.png.png)
 ## Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
